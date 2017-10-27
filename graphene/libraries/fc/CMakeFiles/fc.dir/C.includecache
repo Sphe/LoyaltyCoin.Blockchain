@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/cyoencode-1.0.2/src/CyoDecode.c
+CyoDecode.h
+/home/pesh/_Work/graphene/libraries/fc/vendor/cyoencode-1.0.2/src/CyoDecode.h
+assert.h
+-
+stdio.h
+-
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/cyoencode-1.0.2/src/CyoDecode.h
+stdlib.h
+-
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/cyoencode-1.0.2/src/CyoEncode.c
+CyoEncode.h
+/home/pesh/_Work/graphene/libraries/fc/vendor/cyoencode-1.0.2/src/CyoEncode.h
+assert.h
+-
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/cyoencode-1.0.2/src/CyoEncode.h
+stdlib.h
+-
+

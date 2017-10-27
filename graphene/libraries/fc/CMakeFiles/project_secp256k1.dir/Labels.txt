@@ -1,0 +1,14 @@
+# Target labels
+ project_secp256k1
+# Source files and their labels
+/home/pesh/_Work/graphene/libraries/fc/CMakeFiles/project_secp256k1
+/home/pesh/_Work/graphene/libraries/fc/CMakeFiles/project_secp256k1.rule
+/home/pesh/_Work/graphene/libraries/fc/CMakeFiles/project_secp256k1-complete.rule
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-install.rule
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-mkdir.rule
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-download.rule
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-update.rule
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-patch.rule
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-configure.rule
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-build.rule
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-autogen.rule

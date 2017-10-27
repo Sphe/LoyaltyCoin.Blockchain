@@ -1,0 +1,185 @@
+src/libsecp256k1_la-secp256k1.lo: \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/secp256k1.c \
+ /usr/include/stdc-predef.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/include/secp256k1.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/5.4.0/include/stdint.h \
+ /usr/include/stdint.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/wchar.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/util.h \
+ src/libsecp256k1-config.h /usr/include/stdlib.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/5.4.0/include/stddef.h \
+ /usr/include/bits/stdlib-bsearch.h /usr/include/bits/stdlib-float.h \
+ /usr/include/bits/stdlib.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/5.4.0/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/5.4.0/include-fixed/syslimits.h \
+ /usr/include/limits.h /usr/include/stdio.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/5.4.0/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h /usr/include/bits/stdio2.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/num_impl.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/num.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/field_impl.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/field_5x52_impl.h \
+ /usr/include/string.h /usr/include/bits/string.h \
+ /usr/include/bits/string2.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/string3.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/field.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/field_5x52.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/field_5x52_asm_impl.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/scalar_impl.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/group.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/scalar.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/scalar_4x64.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/scalar_4x64_impl.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/group_impl.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/ecdsa_impl.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/ecmult.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/ecmult_gen.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/ecdsa.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/ecdh_impl.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/ecdh.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/ecmult_impl.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/ecmult_gen_impl.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/hash_impl.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/hash.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/eckey_impl.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/eckey.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/borromean_impl.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/borromean.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/rangeproof_impl.h \
+ /home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/rangeproof.h
+
+/usr/include/stdc-predef.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/include/secp256k1.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/5.4.0/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/wchar.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/util.h:
+
+src/libsecp256k1-config.h:
+
+/usr/include/stdlib.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/5.4.0/include/stddef.h:
+
+/usr/include/bits/stdlib-bsearch.h:
+
+/usr/include/bits/stdlib-float.h:
+
+/usr/include/bits/stdlib.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/5.4.0/include-fixed/limits.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/5.4.0/include-fixed/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/stdio.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/5.4.0/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+/usr/include/bits/stdio2.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/num_impl.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/num.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/field_impl.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/field_5x52_impl.h:
+
+/usr/include/string.h:
+
+/usr/include/bits/string.h:
+
+/usr/include/bits/string2.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/string3.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/field.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/field_5x52.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/field_5x52_asm_impl.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/scalar_impl.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/group.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/scalar.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/scalar_4x64.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/scalar_4x64_impl.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/group_impl.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/ecdsa_impl.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/ecmult.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/ecmult_gen.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/ecdsa.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/ecdh_impl.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/ecdh.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/ecmult_impl.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/ecmult_gen_impl.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/hash_impl.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/hash.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/eckey_impl.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/eckey.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/borromean_impl.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/borromean.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/rangeproof_impl.h:
+
+/home/pesh/_Work/graphene/libraries/fc/vendor/secp256k1-zkp/src/rangeproof.h:

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libwebsocketpp.a  
+/usr/bin/ranlib libwebsocketpp.a

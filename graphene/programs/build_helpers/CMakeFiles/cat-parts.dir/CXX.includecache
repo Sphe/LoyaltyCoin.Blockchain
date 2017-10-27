@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pesh/_Work/graphene/programs/build_helpers/cat-parts.cpp
+boost/filesystem.hpp
+-
+boost/filesystem/fstream.hpp
+-
+algorithm
+-
+iostream
+-
+sstream
+-
+string
+-
+vector
+-
+
